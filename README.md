@@ -1,12 +1,12 @@
 # Snake
 ## Start
-![start](/start.png)
+![start](images/start.png)
 
 ## Gameplay
-![midgame](/midgame.png)
+![midgame](images/midgame.png)
 
 ## End
-![end](/end.png)
+![end](images/end.png)
 
 ### Author
 Sagiv Mishaan
